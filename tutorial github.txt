@@ -1,7 +1,7 @@
 mengkloning folder dari github ke pc
 1. git cloning + alamat url
 
-edit di git hub dari offline trs di upload ke github(pembaruan)
+edit di git hub dari offline trs di upload ke github(pembaruan offline)
 1. git init 
 2. git status
 3. git add . 
