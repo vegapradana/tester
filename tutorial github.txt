@@ -1,0 +1,21 @@
+mengkloning folder dari github ke pc
+1. git cloning + alamat url
+
+edit di git hub dari offline trs di upload ke github(pembaruan)
+1. git init 
+2. git status
+3. git add . 
+4. git commit -m "komentar"
+5. git push
+
+
+menambahkan file baru (upload/push)
+1. simpan file pada folder cloningan github
+2. git status
+3. git add .
+4. git commit -m "komentar"
+5. git push
+
+tambahan file baru dari temen (pull)
+1. git status (cek file)
+2. git pull
