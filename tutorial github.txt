@@ -1,5 +1,5 @@
 mengkloning folder dari github ke pc
-1. git cloning + alamat url
+1. git clone + alamat url
 
 edit di git hub dari offline trs di upload ke github(pembaruan offline)
 1. git init 
